@@ -1,0 +1,1 @@
+echo "script ejecutado después de iniciar la db"

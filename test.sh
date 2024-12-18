@@ -1,1 +1,1 @@
-echo "script ejecutado después de iniciar la db"
+echo "Script executed after init db"

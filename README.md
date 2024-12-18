@@ -22,6 +22,10 @@ docker compose up -d
 ```
 pip install -r requirements.txt
 ```
+7. Execute in your terminal
 
-#### To Do
-Implement hashing of passwords
+```
+python ./src/index.py
+```
+
+8. Start using the GUI
